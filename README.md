@@ -1,5 +1,5 @@
 # Code Challenge - Week 5 (Mongo Databases and Full Stack Logic - Debug)
-
+Assignment debugging a code base I'd never seen before
 
 ## Getting Started
 
