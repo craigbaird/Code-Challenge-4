@@ -1,5 +1,21 @@
 # Code Challenge - Week 5 (Mongo Databases and Full Stack Logic - Debug)
 
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+1. Download .zip of the project
+2. npm install
+3. npm start
+4. type localhost:5000 into a browser
+
+## Technologies Used
+- JavaScript
+- jQuery
+- Express
+- Node
+- MongoDB
+
 ## Overview
 
 This Code Challenge is different from the rest. This time, you will need to debug an existing code base. You will need your
@@ -33,7 +49,7 @@ Meaning, in your own words, explain the problem and why your solution fixes the 
 
 [ ] - Posting information does not seem to come up correctly on the req.body as intended.
 
-[ ] - The information from the database is not being appended to the DOM.
+[X] - The information from the database is not being appended to the DOM.
 
 
 ### Hard Mode
